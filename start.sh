@@ -1,1 +1,1 @@
-./mvnw spring-boot:run -DskipTests=false
+./mvnw spring-boot:run -DskipTests=true
