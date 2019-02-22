@@ -3,7 +3,7 @@ package com.example.demo.Controller;
 import javax.servlet.http.HttpSession;
 
 import com.example.demo.Bean.ResBody;
-import com.example.demo.Library.utils.NetService;
+import com.example.demo.Service.NetService;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
